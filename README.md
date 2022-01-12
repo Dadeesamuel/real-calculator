@@ -4,7 +4,7 @@ This is a site the enables you to do the basic arithmetic.
 
 ## How to visit
 
-[click](<https://dadeesamuel.github.io/acedu-calculator> information) to visit the site.
+[click](<https://dadeesamuel.github.io/real-calculator> information) to visit the site.
 
 ## TABLE OF CONTENT
 
@@ -51,6 +51,6 @@ SOFTWARE.
 
 Samuel- 08132652308
 
-Project link- <https://dadeesamuel.github.io/acedu-calculator>
+Project link- <https://dadeesamuel.github.io/real-calculator>
 
 github username- Dadeesamuel

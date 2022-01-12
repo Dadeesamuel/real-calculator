@@ -1,0 +1,47 @@
+body{background-color: rgb(0, 0, 0);
+text-align: center;
+padding-top: 40px;
+}
+h1{
+    color: chocolate;
+}
+input{
+    border-radius: 50px;
+    width: 10%;
+    height: 50px;
+}
+input:hover{
+   color: white;
+   background-color: chocolate;
+   
+}
+input#answer{
+    border-radius: 50px;
+    width: 41%;
+    height: 50px;
+ margin-bottom: 10px;
+}
+
+#answer{
+    text-align: right;
+    padding-right: 10px;
+}
+@media only screen and (max-width:600px)  {
+    input{
+        border-radius: 50px;
+        width: 22%;
+        height: 50px;
+    }
+    input#answer{
+        border-radius: 50px;
+        width: 93%;
+        height: 50px;
+     margin-bottom: 10px;
+    }
+    body{background-color: rgb(8, 0, 36);
+      
+        }
+        h1{
+            color: white;
+        }
+}

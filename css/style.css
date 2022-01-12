@@ -59,4 +59,13 @@ footer{
         h1{
             color: white;
         }
+        .calc{
+            background-color: rgb(225, 102, 65);
+           padding-bottom: 15px;
+           padding-top: 20px;
+           border-radius: 20px;
+           width: 90%;
+           margin: auto;
+           
+        }
 }
